@@ -11068,6 +11068,7 @@ pre {
   margin-bottom: 30px;
   display: block;
   display: block;
+  border-radius: 10px;
 }
 
 .img-wrapper img {
